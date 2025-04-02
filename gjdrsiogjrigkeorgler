@@ -1,0 +1,41 @@
+[33mcommit f2a42557a6e141f1f3399dfc2ad5dd26c1e7d650[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: GonzaJM <gonzalojamardotuc@gmail.com>
+Date:   Tue Apr 1 21:01:13 2025 -0300
+
+    agregue la exclusion a ignorado.txt
+
+[33mcommit 31adffeca24df4490146417d27c4d7be31091b72[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: GonzaJM <gonzalojamardotuc@gmail.com>
+Date:   Tue Apr 1 20:58:30 2025 -0300
+
+    agrego las reglas de exclusion de archivos en el .gitignore
+
+[33mcommit ef06008d69a29eaacf210075ebe0188237a354cc[m
+Author: GonzaJM <gonzalojamardotuc@gmail.com>
+Date:   Thu Mar 27 12:36:36 2025 -0300
+
+    escribi en el archivo README informacion importante para el uso del archivo .gitignore
+
+[33mcommit a673216d667dca35b90e011298914168164ec8e7[m
+Author: GonzaJM <gonzalojamardotuc@gmail.com>
+Date:   Thu Mar 27 12:14:15 2025 -0300
+
+    agrego un archivo .gitignore al repositorio
+
+[33mcommit 0255fe4a641adf3ecac92be2f97235c9b7ccaf84[m
+Author: GonzaJM <gonzalojamardotuc@gmail.com>
+Date:   Thu Mar 27 12:04:51 2025 -0300
+
+    corregí el titulo
+
+[33mcommit 66fa01bce16902b2e78a5c68a717d46fb1c8e33a[m
+Author: GonzaJM <gonzalojamardotuc@gmail.com>
+Date:   Thu Mar 27 11:57:30 2025 -0300
+
+    puse un titulo en el README.md
+
+[33mcommit dea97aea7dd62e6b20360ce4ef8bf0fe2704d53b[m
+Author: github-classroom[bot] <66690702+github-classroom[bot]@users.noreply.github.com>
+Date:   Tue Mar 25 15:10:27 2025 +0000
+
+    add deadline

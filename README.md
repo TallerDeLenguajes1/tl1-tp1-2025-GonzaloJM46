@@ -29,3 +29,7 @@ Lo ideal es crear y configurar un archivo .gitignore al **comenzar** un proyecto
 *.log
 
 **Las reglas pueden incluir patrones de nombres de archivos y directorios completos.**
+
+
+
+#### 3)g) Al resolver los puntos 2 y 3 da el mismo resultado puesto que el puntero almacena la direccion de memoria de la variable a la que apunta entonces es logico que si yo muestro por pantalla la direccion de memoria de la variable y la direccion almacenada en el puntero sea lo mismo. En el punto 4 no se obtiene lo mismo pues hay una diferencia entre la direccion de memoria que almacena el puntero y la memoria que ocupa el mismo puntero, entonces la direccion que se muestra por pantalla aqui es de la memoria que ocupa el mismo puntero.
